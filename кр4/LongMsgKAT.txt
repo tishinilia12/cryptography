@@ -1,0 +1,7 @@
+# LongMsgKAT.txt
+# Algorithm Name: Luffa
+# Principal Submitter: Dai Watanabe
+
+Len = 24
+Msg = 616266
+MD = ?
